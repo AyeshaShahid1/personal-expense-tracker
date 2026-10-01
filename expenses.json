@@ -1,0 +1,28 @@
+[
+    {
+        "type": "income",
+        "amount": 1000.0,
+        "description": "shocoloship"
+    },
+    {
+        "type": "income",
+        "amount": 10000.0,
+        "description": "scholoship"
+    },
+    {
+        "type": "income",
+        "amount": 5.0,
+        "description": "5"
+    },
+    {
+        "type": "income",
+        "amount": 50000.0,
+        "description": "scholarship"
+    },
+    {
+        "type": "expense",
+        "amount": 1500.0,
+        "category": "food",
+        "description": "lunch"
+    }
+]
